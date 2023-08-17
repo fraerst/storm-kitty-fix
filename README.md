@@ -1,4 +1,6 @@
 # storm-kitty-fix
+PASSWORD 12345
+
 ![image](https://github.com/fraerst/storm-kitty-fix/assets/62127985/0a2a9250-09f3-4c42-b64d-e2d540033bac)
 and build 
 
